@@ -20,4 +20,4 @@ and
 ![pinout](_img/Adafruit_Feather_RP2040-Pinout.png)
 
 
-Here is the test
+Here is the test of update
